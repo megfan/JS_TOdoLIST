@@ -2,7 +2,7 @@
 No comment..
 
 ## View:
-<!-- [Portfolio](https://megfan.github.io) -->
+[To Do List](https://megfan.github.io/JS_TOdoLIST/)
 
 ## Built With
 
@@ -13,7 +13,8 @@ No comment..
 * Bootstrap
 
 
-![screenshot-127 0 0 1-5500-2019 01 15-12-57-12](https://user-images.githubusercontent.com/35031023/51179275-4e223780-18c5-11e9-8225-2f949f2f5592.png)
+![screenshot-127 0 0 1-5500-2019 01 18-21-27-08](https://user-images.githubusercontent.com/35031023/51411390-e93a3c00-1b67-11e9-8c36-e1384875a831.png)
+
 
 ### Authors
 
